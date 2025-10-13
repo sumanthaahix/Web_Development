@@ -1,0 +1,19 @@
+/* h1{
+  color: red;
+} */
+
+.huge{
+  font-size:10rem;
+  color: red;
+  font-weight: bold;
+}
+
+#heading{
+  color: blue;
+  background-color: yellow;
+}
+
+button{
+  color: white;
+  background-color: blue;
+}
